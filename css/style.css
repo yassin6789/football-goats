@@ -6,6 +6,7 @@
     justify-content: center;
     color:white ;
     margin: 0 auto;
+    background-size: cover;
 }
 .home-btn{
     background-color: #7ab536;
