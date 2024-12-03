@@ -1,0 +1,87 @@
+.home{
+    background-image:linear-gradient(rgba(19, 2, 2, 0.5), rgba(0, 0, 0, 0.7)), url(../img/DALL·E\ 2024-12-02\ 16.04.17\ -\ A\ dynamic\ and\ vibrant\ scene\ of\ a\ professional\ football\ game\ in\ progress\,\ set\ in\ a\ large\ stadium\ filled\ with\ cheering\ fans.\ The\ players\ are\ in\ action\,\ .webp);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:white ;
+    margin: 0 auto;
+}
+.home-btn{
+    background-color: #7ab536;
+    color: white;
+    padding: 9px 9px;
+    width: 120px;
+    font-size: 18px;
+    border-radius: 10% ;
+    margin-top: 30px;
+    margin-right: 10px;
+    border: #0d6efd 0px;
+}
+.home-btn:hover{
+    background-color: #79cc95;
+    color: white;
+    transition: all 1s;
+}
+.collapse{
+    font-size: 15px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.about2 {
+    border-radius: 5%;
+    gap: 10px;
+}
+.icons i{
+     font-size:  50px ;
+}
+.icons h1{
+    font-size: 20px;
+
+}
+.collapse h1,.collapse p{
+    color: #000;
+}
+.icons h1,.icons p{
+    color: #000;
+}
+.about-btn{
+    background-color: white;
+    color: #000;
+    padding: 9px 9px;
+    width: 120px;
+    font-size: 18px;
+    border-radius: 15% ;
+    margin-top: 30px;
+    margin-right: 10px;
+    border: #0d6efd 0px;
+}
+.about-btn:hover{
+    background-color:wheat ;
+    color: rgb(0, 0, 0);
+    transition: all 0.5s;
+}
+.icons{
+    transition: all 0.5;
+}
+.icons:hover{
+      background-color: #E5E5FF;
+}
+.row:hover{
+background-color: linear-gradient(rgba(19, 2, 2, 0.5), rgba(0, 0, 0, 0.7));
+transition: all 0.5;
+}
+.container{
+    transition: all 0.5;
+}
+.w-100{
+    font-size: 20px;
+}
+img:hover{
+    scale: 0.9;
+    transition: all 0.5s;
+}
+h2{
+    color: red;
+}
